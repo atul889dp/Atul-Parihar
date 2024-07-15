@@ -1,4 +1,4 @@
-# Atul Parihar
+# Atul Parihar - BioData 
 
 
 - Experienced Test Automation professional with a demonstrated history of working in the Information Technology and services industry for around 10 Years.
